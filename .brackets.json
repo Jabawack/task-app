@@ -1,0 +1,7 @@
+"jabawack.task-app.excludeList": [
+        ".git(?!ignore)",
+        "dist",
+        "bower_components",
+        "node_modules"
+    ]
+}
