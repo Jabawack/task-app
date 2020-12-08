@@ -3,7 +3,7 @@ const result = {
     type: 'TYPE',
     reason: 'DROP',
     source: {
-        draggableId: 'colum-1',
+        droppableId: 'colum-1',
         index: 0,
     },
     destination: {
